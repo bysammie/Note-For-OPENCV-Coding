@@ -3,10 +3,11 @@ Note For Opencv Coding
 ---
 # Opencv related experiemntals for accessing 
 ---
-http://blog.csdn.net/xiaowei_cqu/article/details/7771760
+https://blog.csdn.net/xiaowei_cqu/article/details/19839019
+
 Including: Mat data access, edge detection ...
 
 ---
-Reference: http://blog.csdn.net/xiaowei_cqu/article/details/7771760
+Reference: https://blog.csdn.net/xiaowei_cqu/article/details/19839019
 
 ---
